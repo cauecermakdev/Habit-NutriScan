@@ -1,0 +1,7 @@
+{
+  "name": "Habit & Health Tracker",
+  "description": "A personal tracking app for habits, nutrition (with AI food recognition), smoking cessation, and fitness goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

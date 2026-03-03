@@ -1,0 +1,21 @@
+{
+  "name": "Habit & Health Tracker",
+  "short_name": "Tracker",
+  "description": "A personal tracking app for habits, nutrition, and fitness.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/tracker/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/tracker/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
